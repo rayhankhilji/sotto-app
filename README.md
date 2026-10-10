@@ -2,7 +2,7 @@
 
 Voice to text for every app on your Mac. Hold `fn`, talk, let go: your words appear, cleaned up and in your style.
 
-**Download:** https://rayhankhilji.github.io/sotto-app/
+**Download:** https://sottovoice.online
 
 - [Apple silicon (M1 and later)](https://github.com/rayhankhilji/sotto-app/releases/latest/download/Sotto-AppleSilicon.dmg)
 - [Intel](https://github.com/rayhankhilji/sotto-app/releases/latest/download/Sotto-Intel.dmg)
